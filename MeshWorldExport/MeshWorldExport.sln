@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MeshWorldExport", "MeshWorldExport.vcproj", "{8038004E-4A6B-4FD9-87BF-CE94C7AA221A}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Hybrid
+		ConfigName.2 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8038004E-4A6B-4FD9-87BF-CE94C7AA221A}.Debug.ActiveCfg = Debug|Win32
+		{8038004E-4A6B-4FD9-87BF-CE94C7AA221A}.Debug.Build.0 = Debug|Win32
+		{8038004E-4A6B-4FD9-87BF-CE94C7AA221A}.Hybrid.ActiveCfg = Hybrid|Win32
+		{8038004E-4A6B-4FD9-87BF-CE94C7AA221A}.Hybrid.Build.0 = Hybrid|Win32
+		{8038004E-4A6B-4FD9-87BF-CE94C7AA221A}.Release.ActiveCfg = Release|Win32
+		{8038004E-4A6B-4FD9-87BF-CE94C7AA221A}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		Item:1 = Readme.txt
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
