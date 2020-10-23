@@ -8,6 +8,12 @@
 #include "worldmesh.h"
 #include <modstack.h>
 
+//////////////////////////////////////////////
+// Required .H headerfiles 
+// stdio.h
+// stdlib.h
+// psdk_inc/_ws1_undef.h
+/////////////////////////////////////////////
 
 SliceNodeEnumerator::SliceNodeEnumerator(void)
 {

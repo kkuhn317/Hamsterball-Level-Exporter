@@ -55,7 +55,38 @@
 extern Math				gMath;
 
 
+//////////////////////////////////////
+// Required Headers
+// crtdbg.h
+// memory.h
+// dos.h
+// math.h
+// fcntl.h
+// io.h
+// sys\types.h
+// sys\stat.h
+// malloc.h
+// float.h
+// windows.h
+// mmsystem.h
+// process.h
+// assert.h
+// comctrl.h
+// commdlg.h
+// objbase.h
+/////////////////////////////////////
 
+////////////////////////////////////
+// The headers
+// d3d8.h
+// d3dx8math.h
+// d3dx8tex.h
+// d3d8types.h
+// D3dx8core.h
+// dinput.h
+// Dsound.h 
+// are found in the DirectX 8 SDK
+/////////////////////////////////////
 
 // TODO: reference additional headers your program requires here
 
